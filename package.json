@@ -24,7 +24,7 @@
     "@ngrx/store": "^8.5.2",
     "bootstrap": "^4.0.0-alpha.6",
     "core-js": "^2.5.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "path": "^0.12.7",
     "rxjs": "^6.5.3",
     "stream": "0.0.2",
